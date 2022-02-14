@@ -220,7 +220,7 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    Snap
+    Camera
 
 # Camera motor
 PRODUCT_PACKAGES += \
